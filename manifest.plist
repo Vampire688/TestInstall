@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/Vampire688/TestInstall/raw/master/target.ipa</string>
+                        <string>https://vampire688.github.io/TestInstall/target.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>display-image</string>
                         <key>url</key>
-                        <string>https://github.com/Vampire688/TestInstall/raw/master/AppIcon.png</string>
+                        <string>https://vampire688.github.io/TestInstall/AppIcon.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>full-size-image</string>
                         <key>url</key>
-                        <string>https://github.com/Vampire688/TestInstall/raw/master/AppIcon.png</string>
+                        <string>https://vampire688.github.io/TestInstall/AppIcon.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
